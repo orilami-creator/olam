@@ -37,12 +37,12 @@ const W=[
  ['oncamera','למה אנחנו עושים ק*י רק בבית?','כאן דיגיטל','תסמונת ״השירותים הבטוחים״ — למה זה קורה? ומאיפה היא הגיעה?','כתיבה|קונספט|הגשה',yt('PwqSX5168x0')],
  ['audio','25 שנה אחרי, חיים צינוביץ׳ חוזר לשרוף','כאן גימל','פרויקט השרוף היה ״הפיגוע התרבותי הגדול בישראל״ והוא טמן בתוכו המון זעם ותסכול. רבע מאה ו-EP אחרי, צינוביץ׳ יושב לשיחה.','הגשה|כתיבה|תחקיר|הפקה',{embed:'https://open.spotify.com/embed/episode/68VsX7Rmlx4GBbswowqpzL',url:'https://open.spotify.com/episode/68VsX7Rmlx4GBbswowqpzL',audio:'ספוטיפיי'}],
  ['audio','בחזרה לנובה','כאן 88','מסע זיכרון מוזיקלי בין הסיפורים שקרעו את הלב, למוזיקה שמעט מאחה אותו. פרויקט חיבוק לשבט הטראנס הכאוב (נובמבר 2023).','הגשה|תחקיר|עריכה מוזיקלית',{embed:'https://omny.fm/shows/mizadimandmarathons88/61dd2fe8-7342-472d-bcfb-b0b800f9c82d/embed?media=Audio&size=Square',url:'https://omny.fm/shows/mizadimandmarathons88/61dd2fe8-7342-472d-bcfb-b0b800f9c82d',audio:'Omny'}],
- ['audio','עכשיו אתה מדבר','כאן הסכתים','בין ציפיות החברה לדרישות האבולוציה; בין הכוח והתחרות לרגישות ולחרדות; בין הדימוי לשקר. אורי לביא והפסיכולוג ד״ר גבריאל בוקובזה ז״ל מדברים בפתיחות על הנושא שגברים הכי פחות מדברים עליו — גברים.','הגשה|כתיבה',{embed:'https://open.spotify.com/embed/show/13dElT81nLEUlsX9FgPStN',url:'https://open.spotify.com/show/13dElT81nLEUlsX9FgPStN',audio:'ספוטיפיי'}],
- ['promo','מונדיאל 2026 ישודר כאן!','כאן דיגיטל','','בימוי',yt('s7zHZhwwa4k')],
- ['promo','חדש: קומדי BOX!','כאן דיגיטל','','בימוי',yt('XrSV1HlLrpw')],
- ['promo','אורי גבריאל מציג: תסכית הכוורת','כאן דיגיטל','','בימוי',yt('SmJgRgJIQyE')],
- ['promo','לך תזכור, הסכת על השואה מהרגע שהסתיימה','כאן דיגיטל','','בימוי',yt('KPQhVAbs-ug')],
- ['promo','חברת מוריה: סיכום פעילות שנת 2025','חברת מוריה','','בימוי',yt('7xqLVI5d7aQ')]
+ ['audio','עכשיו אתה מדבר','כאן הסכתים','בין ציפיות החברה לדרישות האבולוציה; בין הכוח והתחרות לרגישות ולחרדות; בין הדימוי לשקר. אורי לביא והפסיכולוג ד״ר גבריאל בוקובזה ז״ל מדברים בפתיחות על הנושא שגברים הכי פחות מדברים עליו — גברים.','הגשה|כתיבה',{embed:'https://open.spotify.com/embed/episode/5aM3qYoLm5ojOycu0wAESO',url:'https://open.spotify.com/episode/5aM3qYoLm5ojOycu0wAESO',audio:'ספוטיפיי',series:[['כל הפרקים בספוטיפיי','All episodes on Spotify','https://open.spotify.com/show/13dElT81nLEUlsX9FgPStN'],['כל הפרקים באתר כאן','All episodes on Kan','https://www.kan.org.il/content/kan/podcasts/p-8478/']]}],
+ ['promo','מונדיאל 2026 ישודר כאן!','כאן דיגיטל','יהונתן כהן ואשרת עיני עם הכרזה מרגשת, אבל מתבלבלים בסט אנד סטינגס.','בימוי',yt('s7zHZhwwa4k')],
+ ['promo','חדש: קומדי BOX!','כאן דיגיטל','חדש בכאן BOX אזור צחוקים מיוחד. בואו, יהיו צחוקים.','בימוי',yt('XrSV1HlLrpw')],
+ ['promo','אורי גבריאל מציג: הכוורת','כאן דיגיטל','״הכוורת״ הסכת עלילתי מיוחד שמביא את עלילותיו המופלאות של כרם התימנים, מהתקופה שהכל היה מותר בה. הוקלט בטכנולוגיית 8 ערוצים ייחודית ומיועד להאזנה באוזניות בלבד.','בימוי',yt('SmJgRgJIQyE')],
+ ['promo','לך תזכור, הסכת על השואה מהרגע שהסתיימה','כאן דיגיטל','האם ידעתם שהמילה ״ועוזריהם״ כוונה במקור ליהודים שסייעו לנאצים? הסכת שמספר על השואה מהרגע שהסתיימה.','בימוי',yt('KPQhVAbs-ug')],
+ ['promo','חברת מוריה: סיכום פעילות שנת 2025','חברת מוריה','(כמעט) כמו דוד המלך, גם חברת מוריה בונה את ירושלים. סיכום פעילות החברה לשנת 2025.','בימוי',yt('7xqLVI5d7aQ')]
 ].map((r,i)=>({i,k:r[0],t:r[1],c:r[2],d:r[3],roles:r[4].split('|'),m:r[5]}));
 const ENT=[
 ['Instagram Blocked Rotem','So she set out on a philosophical journey in search of her authentic identity.'],
@@ -71,16 +71,16 @@ const ENT=[
 ['25 Years Later, Haim Tzinovitz Burns Again','The HaSaruf project was “the biggest cultural attack in Israel,” and it carried a lot of anger and frustration. A quarter of a century and an EP later, Tzinovitz sits down to talk.'],
 ['Back to Nova','A musical memory journey between the stories that tore our hearts apart and the music that mends them a little. A hug for the grieving trance tribe (November 2023).'],
 ['Now You’re Talking','Between society’s expectations and the demands of evolution; between power and competition and sensitivity and anxiety; between image and lies. Orry Lavie and the late psychologist Dr. Gabriel Bukobza talk openly about the subject men talk about least: men.'],
-['The 2026 World Cup Is Coming to Kan!',''],
-['New: Comedy BOX!',''],
-['Uri Gavriel Presents: The Hive, a Radio Drama',''],
-['Go Remember: A Podcast About the Holocaust From the Moment It Ended',''],
-['Moriah Company: 2025 Year in Review','']
+['The 2026 World Cup Is Coming to Kan!','Jonathan Cohen and Oshrat Eni make a moving announcement, but get tangled up in set and settings.'],
+['New: Comedy BOX!','New on Kan BOX: a special comedy zone. Come on in, there will be laughs.'],
+['Uri Gavriel Presents: The Hive','“The Hive” is a special narrative podcast that brings the wondrous tales of Kerem HaTeimanim, the Yemenite Quarter, from the days when anything went. It was recorded with a unique 8-channel technology and is meant for headphones only.'],
+['Go Remember: A Podcast About the Holocaust From the Moment It Ended','Did you know that the phrase “and their collaborators” originally referred to Jews who helped the Nazis? A podcast that tells the story of the Holocaust from the moment it ended.'],
+['Moriah Company: 2025 Year in Review','(Almost) like King David, Moriah Company is building Jerusalem too. A look back at the company’s work in 2025.']
 ];
 const loc=w=>lang==='en'?{t:ENT[w.i][0],d:ENT[w.i][1],c:w.c.split(' | ').map(x=>CLIENT[x]||x).join(' | '),roles:w.roles.map(r=>ROLE[r]||r)}:w;
 const CASES=[3,4,5];
 /* thumbnails per YouTube id: images/thumbs/<name>-480|960.webp (+ .jpg fallback) */
-const THUMBS={'dPL7OrazVGw':'rotem','D3igZF82xqc':'mothers','26YPxgVhWHA':'solica','dgCvfAUChp8':'khanyunis2','H4aGqiXSyHM':'taiga','A8Bx1oX_Tls':'beitar','ECtKswTCMog':'priest','SDehhNoGnCc':'austria','3DyWmEZj5ww':'haredi','SWNimXa5VVQ':'oraita','HDm-RX-XSmU':'moran','bPlpKjMCzfw':'hanna','Y2JkuJQf6wQ':'mensday','ASVu9JXJBBc':'benyehuda','7bj1FphLXR4':'november','SmJgRgJIQyE':'hive','s7zHZhwwa4k':'mundial','tw7QVt88N44':'farewell','2F-gCksMRdY':'massage3','d8nl7FoIrKs':'plagues','ODbxRt-jGAk':'intervention','8Fe0RkiWvkw':'japanese','5-gH_q7OWbU':'y2k','2EUEoh2fywM':'monster','PwqSX5168x0':'home2','XrSV1HlLrpw':'comedybox','KPQhVAbs-ug':'remember2','7xqLVI5d7aQ':'moriah','https://open.spotify.com/episode/68VsX7Rmlx4GBbswowqpzL':'tzinovitz','https://omny.fm/shows/mizadimandmarathons88/61dd2fe8-7342-472d-bcfb-b0b800f9c82d':'nova','https://open.spotify.com/show/13dElT81nLEUlsX9FgPStN':'nowtalking'};
+const THUMBS={'dPL7OrazVGw':'rotem','D3igZF82xqc':'mothers','26YPxgVhWHA':'solica','dgCvfAUChp8':'khanyunis2','H4aGqiXSyHM':'taiga','A8Bx1oX_Tls':'beitar','ECtKswTCMog':'priest','SDehhNoGnCc':'austria','3DyWmEZj5ww':'haredi','SWNimXa5VVQ':'oraita','HDm-RX-XSmU':'moran','bPlpKjMCzfw':'hanna','Y2JkuJQf6wQ':'mensday','ASVu9JXJBBc':'benyehuda','7bj1FphLXR4':'november','SmJgRgJIQyE':'hive','s7zHZhwwa4k':'mundial','tw7QVt88N44':'farewell','2F-gCksMRdY':'massage3','d8nl7FoIrKs':'plagues','ODbxRt-jGAk':'intervention','8Fe0RkiWvkw':'japanese','5-gH_q7OWbU':'y2k','2EUEoh2fywM':'monster','PwqSX5168x0':'home2','XrSV1HlLrpw':'comedybox','KPQhVAbs-ug':'remember2','7xqLVI5d7aQ':'moriah','https://open.spotify.com/episode/68VsX7Rmlx4GBbswowqpzL':'tzinovitz','https://omny.fm/shows/mizadimandmarathons88/61dd2fe8-7342-472d-bcfb-b0b800f9c82d':'nova','https://open.spotify.com/episode/5aM3qYoLm5ojOycu0wAESO':'nowtalking'};
 const BASE=lang==='en'?'../':'';
 const vid=w=>(w.m.url.match(/v=([\w-]+)/)||[])[1]||w.m.url;
 const thumb=(w,t)=>{const n=THUMBS[vid(w)];if(!n)return '';const p=BASE+'images/thumbs/'+n;
@@ -211,7 +211,7 @@ function show(){
    +'<div class="p-who">'+esc(x.c)+'</div><h3 id="pTitle">'+esc(x.t)+'</h3>'
    +(x.d?'<p class="d">'+esc(x.d)+'</p>':'')
    +'<div class="p-role">'+x.roles.map(r=>'<span>'+esc(r)+'</span>').join('')+'</div>'
-   +(canEmbed?'<a href="'+esc(w.m.url)+'" target="_blank" rel="noopener" style="color:var(--soft);font-weight:600">'+watchTxt+' ↗</a>':'')
+   +(w.m.series?'<div class="p-series">'+w.m.series.map(s=>'<a href="'+esc(s[2])+'" target="_blank" rel="noopener">'+esc(L(s[0],s[1]))+' ↗</a>').join('')+'</div>':'')
    +(seq.length>1?'<button class="btn p-next" id="pNext">'+L('הפרויקט הבא: ','Next project: ')+esc(loc(nxt).t)+' '+FW()+'</button>':'');
   pCount.textContent=seq.length>1?(pos+1)+' / '+seq.length:'';
   document.body.classList.add('open');panel.setAttribute('aria-hidden','false');panel.scrollTop=0;if(lenis)lenis.stop();
@@ -255,7 +255,8 @@ form.addEventListener('submit',e=>{
   if(!document.getElementById('f-ok').checked)need.push(['f-ok',L('אישור מדיניות הפרטיות','agreeing to the privacy policy')]);
   sent.hidden=false;
   if(need.length){sent.innerHTML='<p>'+L('רגע, חסר משהו: ','Hold on, something’s missing: ')+need.map(n=>n[1]).join(', ')+'.</p>';document.getElementById(need[0][0]).focus();return}
-  if(document.getElementById('f-web').value){sent.innerHTML='<p><b>'+L('תודה!','Thanks!')+'</b></p>';form.reset();return}
+  const done=()=>{form.reset();form.classList.add('done');sent.hidden=false;sent.innerHTML='<span class="ok-mark" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M5 12.5l4.2 4.2L19 7"/></svg></span>'+'<p class="ok-t">'+L('תודה, קיבלתי.','Thanks, got it.')+'</p>'+'<p class="ok-s">'+L('אנחנו מדברים עוד מעט!','We’ll talk very soon!')+'</p>'+'<button type="button" class="ok-again" id="again">'+L('לשליחת פנייה נוספת','Send another message')+'</button>';sent.setAttribute('tabindex','-1');sent.focus({preventScroll:true});sent.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth',block:'center'});document.getElementById('again').addEventListener('click',()=>{form.classList.remove('done');sent.hidden=true;sent.innerHTML='';document.getElementById('f-name').focus()})};
+  if(document.getElementById('f-web').value){done();return}
   const showDraft=failed=>{
   const body=L('שם','Name')+': '+v('f-name')+'\n'+L('מייל','Email')+': '+v('f-mail')+'\n'+L('טלפון','Phone')+': '+v('f-tel')+'\n'+L('חברה / מותג','Company / brand')+': '+(v('f-co')||'—')+'\n'+L('סוג הפרויקט','Project type')+': '+sel('f-type')+'\n\n'+v('f-msg');
   const href='mailto:orry.lavie@gmail.com?subject='+encodeURIComponent(L('פרויקט חדש: ','New project: ')+sel('f-type')+' — '+v('f-name'))+'&body='+encodeURIComponent(body);
@@ -269,7 +270,7 @@ form.addEventListener('submit',e=>{
   btn.disabled=true;btn.textContent=L('שולח…','Sending…');sent.innerHTML='<p>'+L('שולח…','Sending…')+'</p>';
   const data=new URLSearchParams({name:v('f-name'),email:v('f-mail'),phone:v('f-tel'),company:v('f-co'),type:sel('f-type'),message:v('f-msg'),lang:lang});
   fetch(FORM_ENDPOINT,{method:'POST',mode:'no-cors',body:data}).then(()=>{
-    form.reset();sent.innerHTML='<p><b>'+L('תודה, קיבלתי!','Thanks, got it!')+'</b> '+L('אחזור אליך בהקדם.','I’ll get back to you soon.')+'</p>';
+    done();
   },()=>showDraft(true)).finally(()=>{btn.disabled=false;btn.innerHTML=btnTxt});
 });
 
