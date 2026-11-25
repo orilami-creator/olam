@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.your-domain.co.il/sitemap.xml
+Sitemap: https://orry.co.il/sitemap.xml
